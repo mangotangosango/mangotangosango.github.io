@@ -38,11 +38,13 @@ In this level we are told that the password is stored in the file data.txt, wher
     
     <item>
       <title>Projects</title>
-      <link>https://mangotangosango.github.io/posts/projects/</link>
+      <link>https://mangotangosango.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mangotangosango.github.io/posts/projects/</guid>
-      <description></description>
+      <guid>https://mangotangosango.github.io/projects/</guid>
+      <description>This page shows a list of projects that I&amp;rsquo;ve done till now.
+Portfolio Website using Hugo (The website you’re currently on)
+Used Hugo &amp;amp; PaperMod theme built using Git deployed using Github Pages date: June 24, 2023 - present </description>
     </item>
     
   </channel>
