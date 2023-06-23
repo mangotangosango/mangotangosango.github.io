@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on khayali</title>
+    <link>https://mangotangosango.github.io/posts/</link>
+    <description>Recent content in Posts on khayali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mangotangosango.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UNDECIDED</title>
+      <link>https://mangotangosango.github.io/posts/third/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mangotangosango.github.io/posts/third/</guid>
+      <description>In December 2022, I had the sudden urge to create my first ever blogging website where I could discuss topics I&amp;rsquo;m passionate about. However, I wasn&amp;rsquo;t sure which blogging platform to use as there were many options available to create a website, including WordPress and Medium. I wanted a platform that was cost-efficient, flexible, and allow me to mold it into a design that truly reflected my style. Unfortunately, everywhere I turned, people discouraged me from using WordPress, due to high expenses and limited capabilities, so I cancelled Wordpress from my options from the beginning.</description>
+    </item>
+    
+    <item>
+      <title>Phishing in the Age of AI</title>
+      <link>https://mangotangosango.github.io/posts/second/</link>
+      <pubDate>Tue, 23 May 2023 08:03:45 +0300</pubDate>
+      
+      <guid>https://mangotangosango.github.io/posts/second/</guid>
+      <description>We’ve all heard about the impact that phishing attacks have had, causing detrimental effects on people’s reputation and financial well-being. Unfortunately, with the rise of AI and NLP, phishing attacks are becoming more convincing and creative. AI’s natural language processing help generate for you any sort of content you desire, including writing emails, which is a perfect tool for phishing attack.
+The availability of AI, such as ChatGPT, has made it quite easier for attackers to generate convincing emails.</description>
+    </item>
+    
+    <item>
+      <title>OverTheWire.org Bandit Level11 Walkthrough</title>
+      <link>https://mangotangosango.github.io/posts/first/</link>
+      <pubDate>Fri, 13 Jan 2023 08:03:45 +0300</pubDate>
+      
+      <guid>https://mangotangosango.github.io/posts/first/</guid>
+      <description>Hello! OverTheWire.org is a series of challenges that helps you develop security concepts in for of games. I had a slight difficulty with Bandit Level 11 so I’ve decided to write it out here.
+In this level we are told that the password is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions. When we run cat data.txt, this is what we get:</description>
+    </item>
+    
+  </channel>
+</rss>
